@@ -1,0 +1,22 @@
+{
+  "name": "paginasestaticas3",
+  "version": "1.0.0",
+  "description": "Desarrollar nuevamente el sitio web que sirve páginas estáticas. Resolver el formato de archivo que retorna el servidor utilizando el paquete 'mime'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tito1996/paginasEstaticas3.git"
+  },
+  "author": "Tito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tito1996/paginasEstaticas3/issues"
+  },
+  "homepage": "https://github.com/Tito1996/paginasEstaticas3#readme",
+  "dependencies": {
+    "mime": "^2.4.4"
+  }
+}
